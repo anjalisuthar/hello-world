@@ -1,3 +1,0 @@
-# hello-world 
-
-its my first demo program in github....
